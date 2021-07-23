@@ -1,10 +1,10 @@
 {
   "magisk": {
-    "version": "1eb83ad8-alpha-19",
+    "version": "1eb83ad8-alpha-24",
     "versionCode": "23001",
     "link": "app-release.apk",
     "link64": "app-release.apk",
-    "note": "https://cdn.jsdelivr.net/gh/vvb2060/Magisk@b6b5581b1021c6383bac6444e53dd73bce50fe5e/app/src/main/res/raw/changelog.md"
+    "note": "https://cdn.jsdelivr.net/gh/vvb2060/Magisk@93351695b6993b0ab3d39c5e24159ebd84078edd/app/src/main/res/raw/changelog.md"
   },
   "stub": {
     "versionCode": "21",
